@@ -1,0 +1,17 @@
+                    precision    recall  f1-score   support
+
+  Actuator failure       0.42      0.46      0.44        46
+ Calibration drift       0.70      0.68      0.69       132
+Connection failure       0.27      0.31      0.29        32
+         Corrosion       0.22      0.18      0.20        56
+           Fouling       0.49      0.67      0.56        33
+    Gasket failure       0.26      0.26      0.26        23
+   Mechanical wear       0.76      0.52      0.61       143
+      Packing wear       0.36      0.42      0.38        12
+      Seal failure       0.49      0.60      0.54        62
+      Software bug       0.43      0.48      0.46        95
+      Wiring fault       0.46      0.56      0.50        52
+
+          accuracy                           0.51       686
+         macro avg       0.44      0.47      0.45       686
+      weighted avg       0.53      0.51      0.51       686

@@ -1,0 +1,700 @@
+label,count
+Modos de Falla no especificados,185
+Modos de falla no especificados,109
+Operación inesperada,62
+Información insuficiente,38
+Falla de actuador,38
+Falla de señal,29
+Falla de batería,24
+Falta de señal,24
+Falla de cierre,23
+Falla en el sistema de medición,22
+Falla de material,19
+Falla de respuesta a la demanda,19
+Flujo restringido,16
+Falla de instrumentación (indicador defectuoso),15
+Falla en el sistema de arranque,15
+Falla de señal en el sistema,13
+Falla en el actuador,12
+Voltaje salida equivocado o inestable,12
+Falla de respuesta,12
+Señal retardada,11
+Falla en el sistema de señalización,11
+Voltaje inestable,10
+Falla en el sistema de detección,10
+Alta corriente en el sistema,10
+Falla en el sistema de cierre,10
+Falla de cierre en válvula,10
+Falla no especificada,10
+Ausencia de energia,9
+Falla de indicación en el sistema,9
+Bajo Nivel,8
+Falla de instrumentación (señal falsa),8
+Falla en el sensor de nivel,8
+Parada fuera de límites,8
+Falla en la comunicación del sistema,8
+Salida por Oscilación de Frecuencia,7
+Falla en el sistema de detección de gas,7
+Falla en el sistema de extinción,7
+Falla de apertura,7
+Salida bajo el mínimo aceptable,7
+Falla en el actuador de la válvula,7
+Falla en el sistema,7
+Falla del sensor de nivel,7
+Falla de sensor de nivel,6
+Salida por Baja Potencia,6
+Piezas sueltas,6
+Falla del sensor de señal,6
+Falla en el sistema eléctrico,6
+Falla en el sistema de cierre de la válvula,5
+Falla en el sistema de señalización de emergencia,5
+Falla en el sistema de arranque de la bomba,5
+Tiempo apertura/cierre desp. de esperado,5
+Falla en componentes,5
+Voltaje de salida inestable,5
+Falla de instrumentación,5
+Falsa alarm_indica_defect_nivel_aceite e,5
+Falla de instrumentación (señal falsa / contacto defectuoso),5
+Falla en el medidor de flujo,5
+Falla en el sistema de comunicación,5
+Falla en el sistema de bombeo,4
+Falla en el sistema (información insuficiente),4
+Fallas de medición,4
+Falla en el sistema de compresión,4
+Falla en el indicador de nivel,4
+Falla en el sistema de medición (no especificado),4
+Falla en la instrumentación,4
+Alto voltaje en el sistema eléctrico,4
+Falla de Rotación,4
+Falla en el sistema de refrigeración,4
+Falla de sistema,4
+Parada Fuera de Límites,4
+Falla en sistema de extinción,4
+Salida inestable,4
+Operación inesperada del sistema,4
+Falla estructural (modos no especificados),4
+Falla en el sistema de instrumentación,4
+Falla en el sistema de apertura,4
+Salida por oscilación de frecuencia,4
+Salida por baja potencia,4
+Falla en el sistema de A/A,3
+Falla mecánica (no especificada),3
+Falla en el mecanismo de cierre,3
+Falla en el sistema de cierre del movimiento,3
+Falla de instrumentación (información insuficiente),3
+Falla en comunicación,3
+Falla en el sistema de alarma,3
+Falla en el sensor de presión,3
+Falla en el switch de flujo,3
+Falla en el sensor,3
+No Mide al inicio de la Operación,3
+Falla en el actuador del sistema,3
+Falla en el sistema de conexión,3
+Falla de control (no especificada),3
+Falla mecánica (modos no especificados),3
+Falla en el sistema de nivel,3
+Falla en el sistema de muestreo,3
+Lectura errónea del instrumento,3
+Falla eléctrica,3
+Falla en el sistema de arranque del generador,3
+Falla de sensor (información insuficiente),3
+Falla de medición,3
+Falla en el sistema de operación,3
+Parada,3
+Falla en el sensor de temperatura,3
+Falla en la válvula de alivio,3
+Falla en el generador por oscilación de frecuencia,3
+Fallo en la señal de salida,3
+Salida por Baja Velocidad,3
+Modo de falla no especificado,3
+Falla en el arranque,3
+Falla de detección,3
+Falla en actuador,3
+Falla de sistema (información insuficiente),2
+Falla en el sistema de control (modos no especificados),2
+Operación inesperada en el sistema,2
+Voltaje de salida equivocado o inestable,2
+Falla de presión (baja),2
+Falla de mecanismo (desajuste),2
+Falla en el transmisor de presión,2
+Falla de fusible abierto o desconexión en el circuito,2
+Falla en el sensor de radar,2
+Falla en el probador,2
+Voltaje de salida inestable o incorrecto,2
+Falla en el sistema de presión,2
+Falla eléctrica por alta corriente,2
+Falla de señalización,2
+Falla eléctrica por oscilación de frecuencia,2
+Falla por información insuficiente,2
+Falla en el sincronismo,2
+Falla en el suministro eléctrico,2
+Falla en el sistema de combustible,2
+Falla en el sistema de alumbrado,2
+Falla en el sistema eléctrico (voltaje inestable),2
+Falla de válvula (tiempo de apertura/cierre),2
+Falla de sistema de control (información insuficiente),2
+Falla de instrumentación (modos no especificados),2
+Falla de instrumentación (piezas sueltas),2
+Falla en el sistema de filtración,2
+Falla en la batería,2
+Falla en el motor,2
+Falla en el cierre del actuador,2
+Fallo de apertura de válvula,2
+Falla del transmisor de presión,2
+Operación inesperada en la válvula,2
+Falla en el detector de gas,2
+Falla en el generador (oscilación de frecuencia),2
+Falla en el cierre de la válvula,2
+Falla del transmisor de nivel,2
+Falla de sensor (fin de vida útil),2
+Falla en el sistema de ventilación,2
+Falla de señal en el sistema de medición,2
+Falla eléctrica (voltaje inestable),2
+Fallas de operación,2
+Falla de instrumentación (modos de falla no especificados),2
+Parada fuera de límites del compresor,2
+Falla en sistema de detección de gas,2
+Falla en el sistema de sellado (piezas sueltas),2
+Flujo restringido en el sistema,2
+Falla de señal (retardada),2
+Falla de presión en el sistema,2
+Falla en el sistema de protección,2
+Falla en el sensor de medición,2
+Falla de control (modos no especificados),2
+Falla de energía en el sistema,2
+Arranque Fuera de Límites,2
+Falla en el ciclo de refrigeración del A/A,2
+Falla de energía,2
+Falla de Detección,2
+Falla de Indicador,2
+Fallo de Actuador,2
+Ruido anómalo,2
+Falla en el sistema de indicación,2
+Falla en el sistema de respuesta,2
+Falla en el sistema de generación,2
+Falla de instrumentación (no especificada),2
+Falla de señal por erraticidad,2
+Falla en el sistema de espuma contra incendios,2
+Falla en el sistema de apertura/cierre del dispositivo,2
+Ruido,2
+Falla de electrónica,2
+Falla de sensor,2
+Falla de Componentes,2
+Falla de señal en el transmisor,2
+Oscilación de frecuencia,2
+Falla de corriente (alta corriente),1
+Falla en indicador,1
+Falla en la operación,1
+Falla en el cierre,1
+Falla en la operación del sistema (inestabilidad),1
+Falla de salida (oscilación de frecuencia),1
+Falla en el actuador de cierre (no recibe comando),1
+Falla en el sistema de mezcla,1
+Falla en la válvula del sistema,1
+Falla en el sistema de mantenimiento,1
+Falla en la válvula del tanque,1
+Falla en el sistema de sensores,1
+Falla en el sistema de bomba,1
+Tiempo apertura/cierre después del tiempo,1
+Salida sobre el máximo aceptable,1
+Fallo en el sistema de detección,1
+Parada considerable,1
+Falla en motor,1
+Falla en el sistema de contraincendios,1
+Falla eléctrica en el breaker (salida anormal),1
+Falla de transmisor (bajo nivel),1
+Falla en el sistema de contra incendio (no da salida),1
+Falla de visualización (indicador defectuoso),1
+Falla de tomamuestra (no recoge),1
+Falla de motor (quemado),1
+Falla en el sistema eléctrico (ausencia de energía),1
+Falla en el sistema de operación del tanque,1
+Falla en el sistema de apertura de la válvula,1
+Falla en el sistema de energía,1
+Fallo en la señal de alarma,1
+Tiempo apertura/cierre,1
+Falla de voltaje,1
+Frecuencia equivocada,1
+Falla de Instrumentación,1
+Fallo en el calentador,1
+Falla en tarjeta electrónica,1
+Falla del sensor de medición (no registra flujo),1
+Falla de presión (piezas sueltas),1
+Falla de generador (oscilación de frecuencia),1
+Falla de banco de condensadores (voltaje inestable),1
+Falla del sistema de retroseñal de posición (sensor defectuoso),1
+Falla en el sistema de tratamiento de aguas,1
+Falla en la señal de salida,1
+Falla en comunicación del sistema,1
+Falla en sistema de cierre,1
+Falla en el sistema HMI,1
+Flujo restringido en bomba,1
+Falla en el sistema de apertura (no recibe comando),1
+Falla en el sistema de protección (bajo mínimo),1
+Falla en el sistema de potencia (baja potencia),1
+Falla en la transmisión de señal en el sistema GIS,1
+Falla en el sistema (piezas sueltas),1
+Falla de tomamuestras (no especificada),1
+Falla de válvula por operación inesperada,1
+Falla de medición por modos no especificados,1
+Falla de sensor por operación inesperada,1
+Falla de UPS por voltaje inestable,1
+Falla de válvula por modos no especificados,1
+Falla eléctrica en el motor,1
+Falla de sensor de temperatura por falta de señal,1
+Falla de válvula de seguridad por operación inesperada,1
+Falla de señal o activación en el brazo de medición,1
+Falla por salida bajo el mínimo aceptable,1
+Falla de instrumentación en el sistema de extinción,1
+Falla en el sensor de presión diferencial,1
+Falla de instrumentación en el sistema de detección,1
+Falla del sistema de refrigeración,1
+Falla de instrumentación en detectores de fuego,1
+Falla en la comunicación del sistema de detección de incendios,1
+Falla de señal en la línea de recibo,1
+Falla del sistema de señalización de emergencia,1
+Falla de señal en la trampa de despacho,1
+Falla del sistema de encendido de la caldera,1
+Falla en el sistema de protección del breaker,1
+Falla en la comunicación del sistema de monitoreo,1
+Falla de compresor (no se detiene),1
+Falla de contacto (alta corriente),1
+Falla en el switch de activación,1
+Falla del rectificador (voltaje inestable),1
+Falla eléctrica en el sistema,1
+Falla de presión en el sistema de separación,1
+Falla en el sistema de monitoreo (presión),1
+Falla de entrada de voltaje,1
+Falla de sensor de gas (falsa detección),1
+Fallo en el cierre,1
+Arranque fuera de límites,1
+Falla de potencia,1
+Falla de flujo,1
+Falla en el sensor de detección de gas,1
+Falla de acoplamiento en bomba de trasiego,1
+Falla de succión,1
+No se detiene al momento de apagar,1
+Falla de Disponibilidad,1
+Falla de Sensor,1
+Falla del sistema,1
+Falla del motor,1
+Falla de Rodamiento,1
+Información insuficiente para diagnóstico,1
+Falla en la respuesta del sistema de agente limpio,1
+Falla eléctrica en componentes del laboratorio,1
+Falla de rotación en bomba,1
+Falla de instrumentación (lectura errónea),1
+Falla de instrumentación SCULLY,1
+Falla de conexión en marshalling panel,1
+Falla de tierra en bomba,1
+Falla en la instalación eléctrica (suelta),1
+Señal retardada en el sistema de pesaje,1
+Falla en el sistema de descarga,1
+Fallo en el arranque,1
+Fallo en el voltaje de salida,1
+Fallo en el voltaje de entrada,1
+Fallo en el sistema de alarma,1
+Fallo en la apertura del solenoide,1
+Fallo en el comando remoto,1
+Instalación incorrecta,1
+Fallo en la respuesta,1
+Falla en el transmisor (lectura errónea),1
+Falla en el sistema de alimentación ininterrumpida (UPS),1
+Flujo restringido en la conexión de aire,1
+Falla del sensor de indicador (señal ausente),1
+Falla en el motor de arranque,1
+Falla en la manguera de aire,1
+Falla en el sistema de regulación,1
+Falla en la transferencia de la UPS,1
+Falla en la integridad del sistema,1
+Falla en el sello de la tapa,1
+Falla en la escalera,1
+Falla en los switches de nivel,1
+Falla en el sistema de alarma de la bomba,1
+Falla en el sensor de nivel de aceite,1
+Falla eléctrica en el tomacorriente (conexiones sueltas),1
+Falla en el tiempo de apertura/cierre del tanque,1
+Falla de reconectador (voltaje inestable),1
+Falla de válvula (no toma acción),1
+Falla en la válvula de 4 vías,1
+Falla en el calentador refrigerante,1
+Falla del generador por bajo voltaje,1
+Falla en el ventilador,1
+Falla en el ciclo de refrigeración,1
+Falla en la configuración del sistema,1
+Falla de sincronización (sin respuesta),1
+Falla de voltaje (salida inestable),1
+Falla de respuesta en sistema,1
+Falla en el sistema de compresor,1
+Falla en el sistema de activación,1
+Falla por oscilación de frecuencia,1
+Falla de lubricación o refrigeración,1
+Falla del transmisor (lectura errónea),1
+Falla en la UPS (indicador defectuoso),1
+Falla en el diseño de acceso,1
+Falla en el sistema de muestreo (no recoge muestra),1
+Flujo restringido en sistema,1
+Falla del transmisor (señal no disponible),1
+Falla en el sistema de operación (inesperada),1
+Falla en el sistema de detección de incendios,1
+Falla en el sistema de conexión a tierra (piezas sueltas),1
+Falla en la válvula de alivio de presión,1
+Falla en el arranque del motor de la bomba,1
+Falla de sensor (sin lectura),1
+Falla de sincronismo (modos no especificados),1
+Falla de red (frecuencia equivocada),1
+Falla de operación (modos no especificados),1
+Falla operativa (modos no especificados),1
+Falla de válvula (modos no especificados),1
+Falla en el interruptor (sensor de nivel),1
+Falla en la eficiencia operativa del equipo,1
+Falla en el ciclo de refrigeración (baja eficiencia),1
+Falla en el sistema de medición del probador,1
+Salida fuera de límites,1
+Frecuencia inestable,1
+Falla de válvula,1
+Falla de motor,1
+Falla de transmisión,1
+Fallas de rotación,1
+Fallo eléctrico,1
+Fallo de actuador,1
+Fallo del sensor,1
+Información insuficiente sobre el indicador,1
+Información insuficiente sobre la acometida,1
+Falla en el contador de flujo,1
+Falla en la conexión de despacho (interrupción del flujo),1
+Falla en la bomba,1
+Falla en el sistema de despacho,1
+Flujo restringido en la bomba,1
+Falla en la comunicación,1
+Falla en el medidor de brazo,1
+Falla de señal (oscilación de frecuencia),1
+Falla de señal (indicador defectuoso),1
+Falla de instrumentación (señal defectuosa),1
+Falla en el rectificador (salida inestable),1
+Falla eléctrica por alto voltaje de entrada,1
+Falla en el sistema de arranque (fuera de límites),1
+Operación inesperada del sistema de regulación,1
+Falla en el sistema de acoplamiento,1
+Falla en el sensor de presión (señal inestable),1
+Falla en la presión de descarga del tanque,1
+Falla en el sistema (modos de falla no especificados),1
+Falla en el interruptor (información insuficiente),1
+Falla en el sistema de medición (operación inesperada),1
+Falla en la válvula (operación inesperada),1
+Falla del sensor de medición (sin alineación),1
+Falla en el sistema eléctrico (modos de falla no especificados),1
+Falla en la manguera hidráulica,1
+Falla de señal en el interruptor,1
+Falla de sensor (señal retardada),1
+Falla de componente electrónico,1
+Falla de succión en bomba,1
+Falla del sistema de refrigeración (falla del compresor),1
+Falla de conexión a tierra (falla eléctrica),1
+Falla de energía (sistema sin alimentación),1
+Falla de instrumentación (alarma continua),1
+Falla en el sistema de bombeo (falta de presión o flujo),1
+Falla en el puente grúa (no obedece comandos),1
+Voltaje inestable en el sistema,1
+Información insuficiente sobre la válvula,1
+Falla en el medidor de recibo,1
+Falla en el variador de frecuencia,1
+Falla en el raspador,1
+Falla en el probador de medición,1
+Falla en el sistema de aire,1
+Falla de motor (no enciende),1
+Falla en el medidor de agua,1
+Falla de corneta de emergencia (no emite sonido bajo demanda),1
+Falla de tarjeta (operación inesperada),1
+Falla de válvula (no recibe comando),1
+Falla en la batería del equipo,1
+Falla en el contador de agua,1
+Falla en la electrónica del equipo,1
+Falla de seguridad en el sistema,1
+Falla de flujo restringido,1
+Falla de nivel de aceite,1
+Falla de salida por debajo del mínimo aceptable,1
+Falla de señal en el sistema de detección,1
+Falla de suministro eléctrico,1
+Falla en el sistema de enfriamiento,1
+Falla de toma corriente,1
+Falla de conexión eléctrica,1
+Falla de medición (excede límites),1
+Falla de presión (ajuste necesario),1
+Falla de válvula (baja potencia),1
+Falla de medición (no especificada),1
+Falla de temperatura (excede límites),1
+Falla en el sistema de operación (operación inesperada),1
+Falla en el sistema de contraincendio,1
+Falla en la lectura del instrumento,1
+Falla en el sistema de arranque remoto,1
+Falla en el sistema de climatización,1
+Falla en la apertura del actuador,1
+No repetibilidad en mediciones,1
+Fallo de medición,1
+Fallo de cierre de válvula,1
+Falla en la válvula de 3 vías,1
+Falla por bajo nivel de agua,1
+Falla en la indicación de porcentaje de la válvula,1
+Falla en la comunicación del DCS,1
+Falla por sobrecorriente en el motor eléctrico,1
+Falla en el suministro eléctrico de la bomba,1
+Falla del indicador de trampa (señal falsa),1
+Falla de señal en el medidor de flujo,1
+Falla en el sistema de inyección de espuma,1
+Falla de voltaje (bajo),1
+Falla del sistema de medición (información insuficiente),1
+Falla del compresor (no carga),1
+Falla en el sistema de espuma (salida inestable),1
+Falla del sistema de toma de muestras,1
+Falla del variador de frecuencia,1
+Falla de la bomba de transferencia,1
+Falla del compresor por suciedad en línea de proceso,1
+Falla en el sistema de hidrante por falta de respuesta bajo demanda,1
+Falla eléctrica en el sistema de instalaciones,1
+Falla en el sistema de disponibilidad,1
+Falla por sobrecarga en el generador,1
+Falla de sistema (voltaje inestable),1
+Falla en el actuador del brazo de medición,1
+Falla en la válvula de corte,1
+Falla en el motor del ventilador,1
+Falla en el sistema de espuma (modos no especificados),1
+Falla en la trampa de despacho (operación inesperada),1
+Falla en el sistema de medición (piezas sueltas),1
+Falla en el sistema de baterías,1
+Falla en la transmisión de datos,1
+Falla en la medición de nivel,1
+Falla no especificada en medición,1
+Falla de voltaje (inestable),1
+Falla de sensor (no especificada),1
+Falla de generador (baja velocidad),1
+Falla de instrumentación SCULLY (señal falsa),1
+Falla en el sistema de alarma por sobrevelocidad,1
+Falla de suministro eléctrico (energía insuficiente),1
+Falla de carga (no carga correctamente),1
+Falla en el ciclo de refrigeración (no especificado),1
+Falla en el sistema de control (información insuficiente),1
+Falla de eficiencia en la bomba,1
+Falla en el sistema automático de operación,1
+Falla de rodamiento en motor-bomba,1
+Falla de señal (no hay lectura),1
+Falla en la salida de voltaje,1
+Falla en el sistema de presión de descarga,1
+Lectura errónea del sensor de nivel,1
+Falla en la red eléctrica de media tensión,1
+Falla de sensor (baja velocidad),1
+Falla de generación (salida),1
+Falla de suministro eléctrico (sobrecarga),1
+Falla de sincronización del generador (señal retardada),1
+Falla en la alimentación eléctrica (ausencia de energía),1
+Falla en el sistema de alivio (operación inesperada),1
+Falla en el sistema (modos no especificados),1
+Falla en el sensor de nivel (señal retardada),1
+Falla del sensor de fuego,1
+Falla en el sistema de alimentación de UPS (no asume carga),1
+Falla del sistema de señalización,1
+Falla del sistema de contraincendio,1
+Falla en sistema de alivio de presión,1
+Falla del sistema de medición,1
+Falla del sensor de temperatura,1
+Falla en el indicador de la trampa (señal falsa),1
+Falla en la conexión de alivio (operación inesperada),1
+Falla en la bomba de aspersores,1
+Falla en el sistema de inyección,1
+Falla en la línea de descarga,1
+Falla en la detección del segundo switch,1
+Falta de señal en el sistema de medición,1
+Falla en la fotocelda del circuito,1
+Salida de presión por debajo del mínimo aceptable,1
+Falla en el transformador,1
+Falla en el sistema de sellado del rotor,1
+Falla de sensor de flujo (sin respuesta),1
+Falla de sensor de alarma (sin respuesta),1
+Falla de sensor de gas (sin respuesta),1
+Falla de instrumentación (voltaje inestable),1
+Falla en el ciclo de refrigeración (flujo restringido),1
+Falla en el sistema de ajuste,1
+Falla en el sistema de acople,1
+Falla en el sistema de detección de temperatura,1
+Falla eléctrica por alto voltaje,1
+Exceso de temperatura en interducto,1
+Falla en el sistema de confiabilidad,1
+Falla por alta corriente,1
+Falla en el switch de presión,1
+Falla en el sistema de desaireación,1
+Flujo restringido en el desairador.,1
+Falla en el suministro de energía.,1
+Falla en el comando del actuador.,1
+Falla en el sistema de arranque.,1
+Falla en el sistema de medición del desairador.,1
+Falla en el sistema de detección de humo.,1
+Operación inesperada en la válvula.,1
+Falla en el acople de la bomba de trasiego.,1
+Falla en el rodamiento de la polea tensora.,1
+Falla de señal en el sistema de gas.,1
+Falla de sensor de señal (sin lectura),1
+Falla en el sistema eléctrico (alto voltaje de entrada),1
+Falla en la caja NEMA4 (no especificada),1
+Falla en el mecanismo de la válvula,1
+Falla de instrumentación SCULLY (señal falsa / contacto defectuoso),1
+Falla en el sistema de respuesta de emergencia,1
+Falla de sensor (indicador defectuoso),1
+Falla eléctrica (alto voltaje),1
+Falla en la manguera de refrigerante,1
+Falla en el sensor de nivel o indicador,1
+Falla de instrumentación por indicador defectuoso,1
+Falla en el sistema de arranque del electrobomba,1
+Falla en el sistema eléctrico de la bomba,1
+Falla en el sistema de toma de muestras.,1
+Falla en el sistema de detección de paso.,1
+Falla en el comando de la trampa de despacho.,1
+Información insuficiente sobre la válvula.,1
+Falla en la lectura del medidor.,1
+Falla en el sistema de solenoide.,1
+Modos de falla no especificados en el sistema de agua.,1
+Falla en el generador por falta de breaker.,1
+Falla en el sistema de prefiltración.,1
+Falla en el sistema de tratamiento de aguas residuales,1
+Falla en el sistema de recepción de crudo combustible,1
+Falla del sistema de arranque del motor diésel,1
+Falta de instalación de componente,1
+Falta de señal en el instrumento,1
+Modos de falla no especificados (falla de instrumentación),1
+Falla en el manómetro,1
+Falla en la bomba sumergible,1
+Falla en la bomba dosificadora,1
+Falla en el packing gland,1
+Operación inesperada del sistema de medición,1
+Falla de rotación del brazo articulado,1
+Falla en el indicador de flujo,1
+Falla en el sistema de generación (modos no especificados),1
+Falla del sensor de temperatura (señal falsa),1
+Falla de control (información insuficiente),1
+Falla de instrumentación en pinza SCULLY,1
+Falla en el sistema de filtración de aire,1
+Falla de instrumentación en medidor de flujo,1
+Falla de sensor de flujo (señal ausente),1
+Falla en el sistema eléctrico (mal estado),1
+Falla en la comunicación (ausencia de energía),1
+Operación inesperada en sistema de posfiltración,1
+Falta de información sobre el medidor,1
+Operación inesperada en tanque,1
+Falla del transmisor de temperatura,1
+Falla del sensor de presión (señal retardada),1
+Falla en la válvula de salida (operación inesperada),1
+Falla en la señalización del sistema,1
+Falla en el sistema de seguridad o señalización,1
+Falla en el sistema de sincronización,1
+Falla en el sistema de alimentación,1
+Falla en transmisión de poder/señal,1
+falla en la alimentación eléctrica,1
+Perdidia de estado (señales e instrument,1
+Tiempo de apertura/cierre desfasado,1
+Tiempo de apertura/cierre prolongado,1
+Falla en el sensor térmico,1
+Falla en el sistema de arranque del malacate,1
+Falla por baja potencia,1
+Falla de instrumentación por falta de señal,1
+Falla de medición por oscilación,1
+Falla de corriente por sobrecarga,1
+Falla en el sistema de válvula,1
+Falla de instrumentación por información insuficiente,1
+Falla de relé por no abrir,1
+Falla en la secuencia de arranque,1
+Falla por bajo nivel de combustible,1
+Falla en el sistema de telecomunicaciones,1
+Falla en el sistema de lubricación,1
+Falla en el sistema de seguridad,1
+Falla en la instrumentación por humedad,1
+Falla de respuesta del motor bajo demanda,1
+Falla en el sistema de apertura/cierre del tanque,1
+Falla térmica en el compresor,1
+Falla térmica en la batería,1
+Falla en el mecanismo de giro de la válvula de 4 vías,1
+Falla de presión en el sistema de descarga,1
+Salida anormal por baja corriente,1
+No mide al inicio de la operación,1
+Falla en la medición del medidor,1
+Falla de señal en el display (sin comunicación),1
+Falla en el sistema eléctrico del generador,1
+Falla en la señal de instrumentación,1
+Falla en el sistema de corrección,1
+Falla en el sistema de aterrizaje,1
+Falla en la visualización de datos en pantalla HMI,1
+Falla de sensor de nivel (señal falsa),1
+Falla en la válvula,1
+Operación inesperada en el brazo,1
+Operación inesperada en válvula,1
+Falla en el medidor,1
+Falla en el transmisor,1
+Falla en el filtro,1
+Falla en medidor de flujo,1
+Falla en conexión de recibo,1
+Falla en el sistema de puesta a tierra (conexiones sueltas),1
+Falla en el medidor de brazo (modos no especificados),1
+Falla de material en el brazo de filtración,1
+Falla de material en el sistema eléctrico,1
+Falla en el micro switch por piezas sueltas,1
+Falla en la fuente de alimentación,1
+Falla en el sistema de sellado por piezas sueltas,1
+Falla en la operación de la válvula de shut-off,1
+Falla en el suministro de gas,1
+Falla en el motor del ventilador por falta de respuesta,1
+Falla en el sistema de arranque del agitador,1
+Falla de presión en el sistema de lubricación,1
+Falla de indicación en el sistema de cierre,1
+Falla en el sistema de salida del UPS,1
+Información insuficiente sobre el generador,1
+Falla en el sistema de sincronismo,1
+Señal retardada en el sistema,1
+Falla en el compresor,1
+Falla en la bomba de agua desmineralizada,1
+Falla en el sistema de alimentación del UPS,1
+Falla eléctrica por apertura de fusible,1
+Falla de instrumentación (sin información),1
+Falla de voltaje en el VFD (inestable),1
+Falla en transmisión de señal,1
+Falla mecánica no especificada,1
+Falla de voltaje en el relé,1
+Falla de lectura en el instrumento,1
+Falla en el sistema de carga,1
+Falla en la conexión del racor,1
+Falla en la instrumentación del sistema,1
+Falla de señal en el medidor,1
+Falla en el sistema de señalización por falta de señal,1
+Falla en el sistema de medición por piezas sueltas,1
+Falla en el sistema de la válvula por piezas sueltas,1
+Falla en el sistema de detección por falta de respuesta,1
+Falla en el sistema de lectura por falta de señal,1
+Falla en la respuesta del equipo,1
+Falla eléctrica (no detiene),1
+Falla de sensor (alarma activada),1
+Falla en el variador de frecuencia (salida inestable),1
+Falla en el sistema de presión (modos no especificados),1
+Falla en el interruptor de flujo (no detecta flujo),1
+Falla en la red de comunicación del sistema DCS,1
+Falla de instrumentación (señal ausente),1
+Falla en el sensor de flujo (señal congelada),1
+Falla de generación por oscilación de frecuencia,1
+Falla de salida de voltaje inestable,1
+Falla en el controlador (modos no especificados),1
+Falla en el sistema de medición de nivel,1
+Falla en la alimentación eléctrica del sistema,1
+Falla en el sistema de respuesta a emergencias,1
+Falla de señal en el detector magnético,1
+Falla en el componente electrónico,1
+Fallo en la bomba,1
+Fallo en la indicación de nivel,1
+Salida inestable de la bomba,1
+Falla de indicador en interruptor,1
+Salida de voltaje bajo,1
+Falla en el sistema de toma de muestras,1
+Falla en el sistema de grúa (no especificado),1
+Falla en el sistema de visualización (no registra),1
+Falla en el sistema de medición (no registra),1
+Falla de frecuencia (oscilación),1
+Falla de filtro de aire,1
+Falla en la válvula de diluvio,1
+Falla en el sistema de apertura del dispositivo (operación inesperada),1
+Operación inesperada de la válvula,1
+Operación inesperada del tanque,1
