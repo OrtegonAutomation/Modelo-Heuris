@@ -182,7 +182,7 @@ CONFIG = {
     
     # Entrenamiento PRODUCCION
     "batch_size": 16,
-    "epochs": 10,        # Aumentado para datos mas complejos
+    "epochs": 15,        # Aumentado para datos mas complejos
     "learning_rate": 3e-5, # Ligeramente mayor inicial
     "warmup_ratio": 0.1,
     "weight_decay": 0.01,
@@ -631,8 +631,8 @@ def train_epoch(model, data_loader, optimizer, scheduler, device, visualizer=Non
         loss_causa = criterion_causa(causa_logits, causa_labels)
         loss_prioridad = criterion_prioridad(prioridad_logits, prioridad_labels)
         
-        # Modo: 0.7, Causa: 0.1, Prioridad: 0.2 (Enfoque extremo en lo difícil)
-        loss = 0.7 * loss_modo + 0.1 * loss_causa + 0.2 * loss_prioridad
+        # Causa: 0.6, Prioridad: 0.3, Modo: 0.1 (Enfoque en las cabezas mas dificiles)
+        loss = 0.1 * loss_modo + 0.6 * loss_causa + 0.3 * loss_prioridad
         
         loss.backward()
         torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
