@@ -1,0 +1,15 @@
+{
+  "causa_iso_label": [
+    "Actuator failure",
+    "Calibration drift",
+    "Connection failure",
+    "Corrosion",
+    "Fouling",
+    "Gasket failure",
+    "Mechanical wear",
+    "Packing wear",
+    "Seal failure",
+    "Software bug",
+    "Wiring fault"
+  ]
+}
